@@ -1,0 +1,13 @@
+.container-fluid{
+    background-color: #101626 !important;
+    height: 80vh;
+    text-align: center;
+    padding: 40px 10px ;
+   
+}
+h1{
+    color: #FFFFFF;
+}
+.table{
+    background:  #101626;
+}
